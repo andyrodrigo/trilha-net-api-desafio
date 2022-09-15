@@ -1,24 +1,24 @@
 # DIO - Trilha .NET - API e Entity Framework
-www.dio.me
 
-## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
+## Objetivo deste Projeto:
+>Ele foi criado como um desafio de projeto para o **Bootcamp Pottencial .NET Developer** da plataforma DIO ( *O Quarto deles* ).
+O foco é utilizar os aprendizados de C# e .NET do módulo "Dominando o Ecossistema .NET": APIs, Entity Framework e ASP.NET MVC.
 
 ## Contexto
-Você precisa construir um sistema gerenciador de tarefas, onde você poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
+>Você precisa construir um sistema gerenciador de tarefas, onde você poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
 
-Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obter os registros, criar, salvar e deletar esses registros.
+>Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obter os registros, criar, salvar e deletar esses registros.
 
-A sua aplicação deverá ser do tipo Web API ou MVC, fique a vontade para implementar a solução que achar mais adequado.
+>A sua aplicação deverá ser do tipo Web API ou MVC, fique a vontade para implementar a solução que achar mais adequado.
 
-A sua classe principal, a classe de tarefa, deve ser a seguinte:
+>A sua classe principal, a classe de tarefa, deve ser a seguinte:
 
 ![Diagrama da classe Tarefa](diagrama.png)
 
-Não se esqueça de gerar a sua migration para atualização no banco de dados.
+>Não se esqueça de gerar a sua migration para atualização no banco de dados.
 
 ## Métodos esperados
-É esperado que você crie o seus métodos conforme a seguir:
+>É esperado que você crie o seus métodos conforme a seguir:
 
 
 **Swagger**
@@ -55,4 +55,7 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+> O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Status do Projeto
+> Concluído
